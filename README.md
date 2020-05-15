@@ -13,12 +13,12 @@ We are classifying on the 'Attrition' feature to predict whether or not an emplo
 
 
 ## Modeling
-We trained a couple models including:
-    - Decision Tree
-    - Random Forest
-    - Logistic Regression
-    - XGBoost
-    - Support Vector Machine
+We trained a couple models including:  
+    - Decision Tree  
+    - Random Forest  
+    - Logistic Regression  
+    - XGBoost  
+    - Support Vector Machine  
 
 ### Scores
 Our logistic regression model ended up being our best model, even compared to our tuned forest models. Our model predicts with an 89% accuracy score and 67% F-1 score.  
